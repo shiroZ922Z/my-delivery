@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/shiroZ922Z/my-delivery/static/css/main.478116ab.css",
+    "main.js": "/shiroZ922Z/my-delivery/static/js/main.75837c1d.js",
+    "static/media/map.png": "/shiroZ922Z/my-delivery/static/media/map.64543df3e3140a4b6062.png",
+    "static/media/logo.svg": "/shiroZ922Z/my-delivery/static/media/logo.d1a6b3e5d3edf327e1f76bdd46d2c9df.svg",
+    "static/media/Montserrat-ExtraBold.woff2": "/shiroZ922Z/my-delivery/static/media/Montserrat-ExtraBold.1f4383ae07ba451b4ff1.woff2",
+    "static/media/Montserrat-Bold.woff2": "/shiroZ922Z/my-delivery/static/media/Montserrat-Bold.d28745f2b8e5c12d3607.woff2",
+    "static/media/Montserrat-SemiBold.woff2": "/shiroZ922Z/my-delivery/static/media/Montserrat-SemiBold.165aed18e64970167ee7.woff2",
+    "static/media/Montserrat-Regular.woff2": "/shiroZ922Z/my-delivery/static/media/Montserrat-Regular.4ada7f2f580c676690f0.woff2",
+    "static/media/iconShop.svg": "/shiroZ922Z/my-delivery/static/media/iconShop.5cde582c5e92f2558b597d8ea9635df9.svg",
+    "index.html": "/shiroZ922Z/my-delivery/index.html",
+    "main.478116ab.css.map": "/shiroZ922Z/my-delivery/static/css/main.478116ab.css.map",
+    "main.75837c1d.js.map": "/shiroZ922Z/my-delivery/static/js/main.75837c1d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.478116ab.css",
+    "static/js/main.75837c1d.js"
+  ]
+}
