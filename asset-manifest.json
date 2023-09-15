@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "./static/css/main.c05b8bb6.css",
-    "main.js": "./static/js/main.04580695.js",
-    "static/media/map.png": "./static/media/map.64543df3e3140a4b6062.png",
-    "static/media/logo.svg": "./static/media/logo.d1a6b3e5d3edf327e1f76bdd46d2c9df.svg",
-    "static/media/Montserrat-ExtraBold.woff2": "./static/media/Montserrat-ExtraBold.1f4383ae07ba451b4ff1.woff2",
-    "static/media/Montserrat-Bold.woff2": "./static/media/Montserrat-Bold.d28745f2b8e5c12d3607.woff2",
-    "static/media/Montserrat-SemiBold.woff2": "./static/media/Montserrat-SemiBold.165aed18e64970167ee7.woff2",
-    "static/media/Montserrat-Regular.woff2": "./static/media/Montserrat-Regular.4ada7f2f580c676690f0.woff2",
-    "static/media/iconShop.svg": "./static/media/iconShop.5cde582c5e92f2558b597d8ea9635df9.svg",
-    "index.html": "./index.html",
-    "main.c05b8bb6.css.map": "./static/css/main.c05b8bb6.css.map",
-    "main.04580695.js.map": "./static/js/main.04580695.js.map"
+    "main.css": "/my-delivery/static/css/main.d7121131.css",
+    "main.js": "/my-delivery/static/js/main.fdf4945d.js",
+    "static/media/map.png": "/my-delivery/static/media/map.64543df3e3140a4b6062.png",
+    "static/media/logo.svg": "/my-delivery/static/media/logo.d1a6b3e5d3edf327e1f76bdd46d2c9df.svg",
+    "static/media/Montserrat-ExtraBold.woff2": "/my-delivery/static/media/Montserrat-ExtraBold.1f4383ae07ba451b4ff1.woff2",
+    "static/media/Montserrat-Bold.woff2": "/my-delivery/static/media/Montserrat-Bold.d28745f2b8e5c12d3607.woff2",
+    "static/media/Montserrat-SemiBold.woff2": "/my-delivery/static/media/Montserrat-SemiBold.165aed18e64970167ee7.woff2",
+    "static/media/Montserrat-Regular.woff2": "/my-delivery/static/media/Montserrat-Regular.4ada7f2f580c676690f0.woff2",
+    "static/media/iconShop.svg": "/my-delivery/static/media/iconShop.5cde582c5e92f2558b597d8ea9635df9.svg",
+    "index.html": "/my-delivery/index.html",
+    "main.d7121131.css.map": "/my-delivery/static/css/main.d7121131.css.map",
+    "main.fdf4945d.js.map": "/my-delivery/static/js/main.fdf4945d.js.map"
   },
   "entrypoints": [
-    "static/css/main.c05b8bb6.css",
-    "static/js/main.04580695.js"
+    "static/css/main.d7121131.css",
+    "static/js/main.fdf4945d.js"
   ]
 }
