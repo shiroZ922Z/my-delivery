@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/my-delivery/static/css/main.af4f01fe.css",
+    "main.css": "/my-delivery/static/css/main.e0b67887.css",
     "main.js": "/my-delivery/static/js/main.e715d55a.js",
     "static/media/map.png": "/my-delivery/static/media/map.64543df3e3140a4b6062.png",
     "static/media/sale.png": "/my-delivery/static/media/sale.551c9b2de285fa552853.png",
@@ -11,11 +11,11 @@
     "static/media/Montserrat-Regular.woff2": "/my-delivery/static/media/Montserrat-Regular.4ada7f2f580c676690f0.woff2",
     "static/media/iconShop.svg": "/my-delivery/static/media/iconShop.5cde582c5e92f2558b597d8ea9635df9.svg",
     "index.html": "/my-delivery/index.html",
-    "main.af4f01fe.css.map": "/my-delivery/static/css/main.af4f01fe.css.map",
+    "main.e0b67887.css.map": "/my-delivery/static/css/main.e0b67887.css.map",
     "main.e715d55a.js.map": "/my-delivery/static/js/main.e715d55a.js.map"
   },
   "entrypoints": [
-    "static/css/main.af4f01fe.css",
+    "static/css/main.e0b67887.css",
     "static/js/main.e715d55a.js"
   ]
 }
